@@ -1,6 +1,5 @@
 <div align="center"> <h2>湖北汽车工业学院金工实习报告</h2> 
-<p>HUAT Metallurgical Practice Report</div>
-<hr>
+<p>HUAT Metallurgical Practice Report</p></div>
 
 ### 介绍
 本项目作为往年金工实习报告的集合，希望能够帮助后来者免受面对实习报告却不知道写什么的折磨。
